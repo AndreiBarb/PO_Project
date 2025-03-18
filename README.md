@@ -21,7 +21,7 @@ O projeto está organizado da seguinte forma:
 
 Para compilar e executar o projeto, siga os passos abaixo:
 
-1. **Configuração da Biblioteca `po-uilib`**: Crie um link simbólico para a biblioteca `po-uilib` no mesmo nível da raiz do repositório. Esta biblioteca pode ser obtida a partir do site oficial da disciplina. ([fenix.tecnico.ulisboa.pt](https://fenix.tecnico.ulisboa.pt/disciplinas/PO211/2024-2025/1-semestre/projecto?utm_source=chatgpt.com))
+1. **Configuração da Biblioteca `po-uilib`**: Crie um link simbólico para a biblioteca `po-uilib` no mesmo nível da raiz do repositório. Esta biblioteca pode ser obtida a partir do site oficial da disciplina. ([wikiPO](https://web.tecnico.ulisboa.pt/~david.matos/w/pt/index.php/Programa%C3%A7%C3%A3o_com_Objectos/Projecto_de_Programa%C3%A7%C3%A3o_com_Objectos/Material_de_Apoio_ao_Desenvolvimento))
 
 2. **Compilação e Execução**: No diretório raiz do projeto, execute o comando `make` para compilar e iniciar a aplicação.
 
