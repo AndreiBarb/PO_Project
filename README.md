@@ -1,6 +1,6 @@
-# hotel-veterinario-po
+# Hotel-Veterinario-PO
 
-Projeto PO, IST LEIC-A 202/2025
+Projeto PO, IST LEIC-A 2024/2025
 
 * Core: `hva-core` contains the domain classes
 * Interaction: `hva-app` contains the user interaction classes
